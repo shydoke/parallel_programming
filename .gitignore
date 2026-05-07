@@ -1,4 +1,4 @@
-# Prerequisites
+﻿# Prerequisites
 *.d
 
 # Compiled Object files
@@ -16,7 +16,7 @@
 
 # Debugger Files
 *.pdb
-
+.vs/
 # Compiled Dynamic libraries
 *.so
 *.dylib
